@@ -1,0 +1,2 @@
+cd you.ai   # or whatever your repo folder is
+npx create-next-app@latest . --ts
